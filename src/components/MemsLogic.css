@@ -44,21 +44,23 @@
 
 .countingPlus {
   color: #0c952a;
-  margin: 5px;
+  margin: 10px;
+  font-size: 25px;
 }
 
 .countingMinus {
   color: #a03028;
-  margin: 5px;
+  margin: 10px;
+  font-size: 25px;
 }
 
 .operatorButton {
   margin: 5px;
   width: 30px;
   background-color: #a5c3ff;
-  border-color: #d4f794;
+  border-color: #9497f7;
   color: hsl(0, 0%, 10%);
-  font-size: 3-px;
+  font-size: 30px;
   font-weight: bold;
   border-radius: 5px;
   border-style: solid;
