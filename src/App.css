@@ -12,27 +12,25 @@
   top: 0;
   width: 100%;
   float: left;
-  background: hsl(0, 0%, 20%);
+  background: hsl(318, 69%, 37%);
 }
 
 h1 {
   font-size: 42px;
-  color: #add8e6;
+  color: #eb60ed;
   margin: 16px;
   margin-right: 64px;
 }
 .hotButton,
 .regularButton {
-  border: 2px solid #add8e6;
-  border-radius: 5px;
+  border: 2px solid #eb60ed;
+  border-radius: 20px;
   background-color: transparent;
   padding: 8px 16px;
   margin: 8px 8px;
   width: 150px;
   transition: background-color 0.3s, color 0.3s;
-  outline: none;
-  text-decoration: none;
-  color: #add8e6;
+  color: #eb60ed;
 
   font-weight: bold;
   font-size: 26px;
@@ -40,7 +38,7 @@ h1 {
 
 .hotButton:hover,
 .regularButton:hover {
-  background-color: #bc5ce6;
+  background-color: #eb60ed;
   color: black;
 }
 

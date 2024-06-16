@@ -1,6 +1,6 @@
 .memsContainer {
   display: flex;
-  background: hsl(0, 0%, 10%);
+  background: hsl(313, 87%, 76%);
   flex-direction: column;
   align-items: center;
   margin-top: 80px;
@@ -8,8 +8,8 @@
 .oneMem {
   width: 100%;
   max-width: 750px;
-  border: 1px solid hsl(0, 0%, 15%);
-  background-color: hsl(0, 0%, 15%);
+  border: 1px solid hsl(318, 69%, 37%);
+  background-color: hsl(318, 69%, 37%);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,8 +29,8 @@
 
 .counters {
   display: flex;
-  border: 1px solid #300a50;
-  background-color: #300a50;
+  border: 1px solid #ffd0fa;
+  background-color: #ffd0fa;
   margin-top: 10px;
   font-size: 18px;
   justify-content: center;
@@ -41,13 +41,13 @@
 }
 
 .countingPlus {
-  color: #0c952a;
+  color: #07ab2a;
   margin: 10px;
   font-size: 25px;
 }
 
 .countingMinus {
-  color: #a03028;
+  color: #ff1100;
   margin: 10px;
   font-size: 25px;
 }
