@@ -15,7 +15,6 @@
   align-items: center;
   margin: 16px;
   padding: 16px;
-  border-radius: 5px;
 }
 .likesContainer {
   display: flex;
@@ -33,7 +32,6 @@
   border: 1px solid #300a50;
   background-color: #300a50;
   margin-top: 10px;
-  border-radius: 6px;
   font-size: 18px;
   justify-content: center;
   align-items: center;
